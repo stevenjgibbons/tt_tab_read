@@ -1,0 +1,16 @@
+A little tool to extract traveltime estimates from a "Bayesloc" style traveltime table.
+
+```
+Usage:
+  python arrival_time_standalone.py station_lat station_lon event_lat \
+       event_lon event_dep_km ak135_P1.txt [--origin_time YYYY-mm-ddTHH:MM:SS.sss]
+```
+
+e.g.
+
+```
+python arrival_time.py 60.0  0.0 80.05 10.0  0.0  ak135_P1.dat \
+    --origin_time 2026-04-02T12:34:56.789
+python arrival_time.py  0.0  0.0 10.00  0.0 22.0  ak135_S1.dat \
+    --origin_time 2026-04-02T12:34:56.789
+```
