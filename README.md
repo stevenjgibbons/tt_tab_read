@@ -1,4 +1,10 @@
-A little tool to extract traveltime estimates from a "Bayesloc" style traveltime table.
+A little tool to extract traveltime estimates from a "Bayesloc" style traveltime table.  
+
+[![SQAaaS badge](https://github.com/EOSC-synergy/SQAaaS/raw/master/badges/badges_150x116/badge_software_bronze.png)](https://api.eu.badgr.io/public/assertions/FLJEa_XhRnaNU_Cnht6rvA "SQAaaS bronze badge achieved")  
+
+[![SQAaaS badge shields.io](https://img.shields.io/badge/sqaaas%20software-bronze-e6ae77)](https://api.eu.badgr.io/public/assertions/FLJEa_XhRnaNU_Cnht6rvA "SQAaaS bronze badge achieved")  
+
+https://sqaaas.eosc-synergy.eu/full-assessment/report/https://raw.githubusercontent.com/eosc-synergy/tt_tab_read.assess.sqaaas/main/.report/assessment_output.json  
 
 ```
 Usage:
