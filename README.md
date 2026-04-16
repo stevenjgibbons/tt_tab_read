@@ -6,6 +6,10 @@ A little tool to extract traveltime estimates from a "Bayesloc" style traveltime
 
 https://sqaaas.eosc-synergy.eu/full-assessment/report/https://raw.githubusercontent.com/eosc-synergy/tt_tab_read.assess.sqaaas/main/.report/assessment_output.json  
 
+Version v1.0.0 is permanently archived on Zenodo on https://doi.org/10.5281/zenodo.19605150  
+
+[![DOI](https://zenodo.org/badge/1200343434.svg)](https://doi.org/10.5281/zenodo.19605150)  
+
 ```
 Usage:
   python arrival_time_standalone.py station_lat station_lon event_lat \
