@@ -14,3 +14,13 @@ python arrival_time.py 60.0  0.0 80.05 10.0  0.0  ak135_P1.dat \
 python arrival_time.py  0.0  0.0 10.00  0.0 22.0  ak135_S1.dat \
     --origin_time 2026-04-02T12:34:56.789
 ```
+
+This results in the following output:  
+```
+Distance_deg = 20.2682
+Travel_time_s = 277.0176
+Arrival_time_UTC = 2026-04-02T12:39:33.806+00:00
+Distance_deg = 10.0000
+Travel_time_s = 253.7600
+Arrival_time_UTC = 2026-04-02T12:39:10.549+00:00
+```
